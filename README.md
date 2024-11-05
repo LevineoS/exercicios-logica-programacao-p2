@@ -1,1 +1,1 @@
-# exercicios-logica-programacao-p2
+# Exercicios de lógica de PA - Lista 2
